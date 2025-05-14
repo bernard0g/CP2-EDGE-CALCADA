@@ -73,6 +73,7 @@ Conforme `libraries.txt`:
 ---
 
 ## 📹 Simulação
+![Foto do projeto](imagem.png)
 
 🔗 [Simulação no Wokwi (exemplo)](https://wokwi.com/projects/430955165212010497)
 
