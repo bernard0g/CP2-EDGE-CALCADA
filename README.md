@@ -61,6 +61,7 @@ Conforme `libraries.txt`:
 
 - **LiquidCrystal I2C**
 - **DHT sensor library**
+- **DHT22**
 
 ---
 
