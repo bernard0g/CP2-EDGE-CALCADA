@@ -74,6 +74,9 @@ Conforme `libraries.txt`:
 ---
 
 ## 📹 Simulação
+
+Link para vídeo explicativo do projeto no
+YouTube:
 https://youtu.be/LjGvaSKwsZw
 ![Foto do projeto](projeto.png)
 
